@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+	<addon id="repository.media" name="media packs" version="0.0.1" provider-name="Martijn">
+	  <extension point="xbmc.addon.repository" name="Test repo">
+		<info compressed="true">http://github.com/XBMC-Addons/repo.media.packs/raw/master/addons.xml</info>
+		<checksum>http://github.com/XBMC-Addons/repo.media.packs/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/XBMC-Addons/repo.media.packs/raw/master/download</datadir>
+		<hashes>true</hashes>
+	  </extension>
+	  <extension point="xbmc.addon.metadata">
+		<summary lang="en">Install image pack repository</summary>
+		<description lang="en">Install image pack repository</description>
+		<disclaimer lang="en">test</disclaimer>
+		<platform>all</platform>
+	  </extension>
+	</addon>
 	<addon id="media.icons.recordlabels.white" name="White recordlabel logos" version="0.0.1" provider-name="Martijn">
 		<extension point="xbmc.media.graphics"/>
 		<extension point="xbmc.addon.metadata">
