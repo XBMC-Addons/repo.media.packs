@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+	<addon id="media.icons.recordlabels.white" name="White recordlabel logos" version="0.0.1" provider-name="Martijn">
+		<extension point="xbmc.media.graphics"/>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">White recordlabel icon pack</summary>
+			<description lang="en">White recordlabel icon that can be used by skins. Image size 161x109</description>
+			<disclaimer lang="en">All credits to the makers of these images. License CC-BY-SA 3.0</disclaimer>
+			<platform>all</platform>
+		</extension>
+	</addon>
+	<addon id="media.icons.weather" name="Weather Icons" version="0.0.1" provider-name="Martijn">
+		<extension point="xbmc.media.graphics"/>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Weather condition based icons</summary>
+			<description lang="en">Weather condition based icons. Image size 128x128</description>
+			<disclaimer lang="en">All credits to the makers of these images. License CC-BY-SA 3.0</disclaimer>
+			<platform>all</platform>
+		</extension>
+	</addon>
+	<addon id="media.icons.studio.white" name="White studio logos" version="0.0.1" provider-name="Martijn">
+		<extension point="xbmc.media.graphics"/>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">White studio icon pack</summary>
+			<description lang="en">White studio icon pack that can be used by skins. Image size 161x109</description>
+			<disclaimer lang="en">All credits to the makers of these images. License CC-BY-SA 3.0</disclaimer>
+			<platform>all</platform>
+		</extension>
+	</addon>
+</addons>
