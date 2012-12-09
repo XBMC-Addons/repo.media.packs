@@ -41,7 +41,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="screensaver.xbmc.builtin.slideshow" name="Slideshow" version="2.0.0" provider-name="Team XBMC">
+	<addon id="screensaver.xbmc.builtin.slideshow" name="Slideshow" version="2.0.1" provider-name="Team XBMC">
 		<extension point="xbmc.ui.screensaver"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">Screensaver that displays an image slideshow</summary>
