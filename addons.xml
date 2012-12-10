@@ -48,6 +48,7 @@
 			<description lang="en">The Slideshow screensaver will show you a slide show of images using various transition effects. It can be configured to show your libraries music or video fanart, or a custom folder of images</description>
 			<disclaimer lang="en">Mark as broken test</disclaimer>
 			<platform>all</platform>
+    			<broken>This screensaver is broken and you should remove it from your system.</broken>
 		</extension>
 	</addon>
 </addons>
